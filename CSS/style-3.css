@@ -1,0 +1,11 @@
+body {
+  padding: 16px;
+}
+
+.article {
+  max-width: 320px;
+}
+
+.article-text {
+  color: tomato;
+}

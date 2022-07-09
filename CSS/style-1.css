@@ -1,0 +1,15 @@
+body {
+  margin: 24px;
+}
+
+.is-hidden {
+  display: none;
+}
+
+.qwerty {
+  color: blue;
+}
+
+.ddd {
+  color: brown;
+}
